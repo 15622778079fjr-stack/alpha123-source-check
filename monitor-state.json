@@ -1,0 +1,61 @@
+{
+  "outbox": [
+    {
+      "id": "84f6dd6f239d4e83a21f46b041cb1a14",
+      "channel": "feishu",
+      "text": "【Alpha123 云端监控测试】\n飞书和钉钉双通道测试。\n已成功获取网站数据，计划每 5 分钟检查（平台可能延迟）。\n不依赖电脑开机或 Codex 在线。\n发送时间：2026-10-09 22:37:01（北京时间）",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "e38c4b13fa4e46689f9ae352e26fa851",
+      "channel": "dingtalk",
+      "text": "【Alpha123 云端监控测试】\n飞书和钉钉双通道测试。\n已成功获取网站数据，计划每 5 分钟检查（平台可能延迟）。\n不依赖电脑开机或 Codex 在线。\n发送时间：2026-10-09 22:37:01（北京时间）",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
+  "snapshot": {
+    "CLO|phase=1": {
+      "section": "今日空投",
+      "record": {
+        "token": "CLO",
+        "name": "CLO",
+        "date": "2026-10-09",
+        "time": "17:00",
+        "points": "245",
+        "amount": "467",
+        "total_amount": "3333735",
+        "phase": 1,
+        "status": "announced",
+        "type": "grab",
+        "box": true,
+        "created_timestamp": 1791535845,
+        "updated_timestamp": 1791536436,
+        "contract_address": "0x81d3a238b02827f62b9f390f947d36d4a5bf89d2",
+        "chain_id": "56"
+      }
+    },
+    "BTR|phase=1": {
+      "section": "今日空投",
+      "record": {
+        "token": "BTR",
+        "name": "BTR",
+        "date": "2026-10-09",
+        "time": "17:00",
+        "points": "245",
+        "amount": "560",
+        "total_amount": "3000400",
+        "phase": 1,
+        "status": "announced",
+        "type": "grab",
+        "box": true,
+        "created_timestamp": 1791535860,
+        "updated_timestamp": 1791536436,
+        "contract_address": "0xfed13d0c40790220fbde712987079eda1ed75c51",
+        "chain_id": "56"
+      }
+    }
+  },
+  "last_check": "2026-10-09 22:37:01"
+}
