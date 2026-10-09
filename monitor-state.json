@@ -1,46 +1,34 @@
 {
-  "outbox": [],
-  "snapshot": {
-    "CLO|phase=1": {
-      "section": "今日空投",
-      "record": {
-        "token": "CLO",
-        "name": "CLO",
-        "date": "2026-10-09",
-        "time": "17:00",
-        "points": "245",
-        "amount": "467",
-        "total_amount": "3333735",
-        "phase": 1,
-        "status": "announced",
-        "type": "grab",
-        "box": true,
-        "created_timestamp": 1791535845,
-        "updated_timestamp": 1791536436,
-        "contract_address": "0x81d3a238b02827f62b9f390f947d36d4a5bf89d2",
-        "chain_id": "56"
-      }
+  "outbox": [
+    {
+      "id": "919cc5d3ef64487db252ea490ffbd1a4",
+      "channel": "feishu",
+      "text": "【Alpha123 移除】CLO\n栏目：今日空投\n项目名称：CLO\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x81d3a238b02827f62b9f390f947d36d4a5bf89d2\n链 ID：56\n空投份数（约）：7139份\n每份数量：467\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
     },
-    "BTR|phase=1": {
-      "section": "今日空投",
-      "record": {
-        "token": "BTR",
-        "name": "BTR",
-        "date": "2026-10-09",
-        "time": "17:00",
-        "points": "245",
-        "amount": "560",
-        "total_amount": "3000400",
-        "phase": 1,
-        "status": "announced",
-        "type": "grab",
-        "box": true,
-        "created_timestamp": 1791535860,
-        "updated_timestamp": 1791536436,
-        "contract_address": "0xfed13d0c40790220fbde712987079eda1ed75c51",
-        "chain_id": "56"
-      }
+    {
+      "id": "28db98659d8e4388b54e561f56a51b71",
+      "channel": "dingtalk",
+      "text": "【Alpha123 移除】CLO\n栏目：今日空投\n项目名称：CLO\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x81d3a238b02827f62b9f390f947d36d4a5bf89d2\n链 ID：56\n空投份数（约）：7139份\n每份数量：467\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "cf66ba278ea14a81b178b5d51fa4bdef",
+      "channel": "feishu",
+      "text": "【Alpha123 移除】BTR\n栏目：今日空投\n项目名称：BTR\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0xfed13d0c40790220fbde712987079eda1ed75c51\n链 ID：56\n空投份数（约）：5358份\n每份数量：560\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "053cf52b738341c99d84f4d4b235d92f",
+      "channel": "dingtalk",
+      "text": "【Alpha123 移除】BTR\n栏目：今日空投\n项目名称：BTR\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0xfed13d0c40790220fbde712987079eda1ed75c51\n链 ID：56\n空投份数（约）：5358份\n每份数量：560\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
     }
-  },
-  "last_check": "2026-10-09 22:37:01"
+  ],
+  "snapshot": {},
+  "last_check": "2026-10-10 03:43:04"
 }
