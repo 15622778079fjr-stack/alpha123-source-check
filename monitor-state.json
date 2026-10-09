@@ -1,13 +1,5 @@
 {
-  "outbox": [
-    {
-      "id": "e38c4b13fa4e46689f9ae352e26fa851",
-      "channel": "dingtalk",
-      "text": "【Alpha123 云端监控测试】\n飞书和钉钉双通道测试。\n已成功获取网站数据，计划每 5 分钟检查（平台可能延迟）。\n不依赖电脑开机或 Codex 在线。\n发送时间：2026-10-09 22:37:01（北京时间）",
-      "attempts": 0,
-      "due": 0
-    }
-  ],
+  "outbox": [],
   "snapshot": {
     "CLO|phase=1": {
       "section": "今日空投",
