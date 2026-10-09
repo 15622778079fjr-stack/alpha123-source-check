@@ -1,13 +1,6 @@
 {
   "outbox": [
     {
-      "id": "28db98659d8e4388b54e561f56a51b71",
-      "channel": "dingtalk",
-      "text": "【Alpha123 移除】CLO\n栏目：今日空投\n项目名称：CLO\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x81d3a238b02827f62b9f390f947d36d4a5bf89d2\n链 ID：56\n空投份数（约）：7139份\n每份数量：467\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
-      "attempts": 0,
-      "due": 0
-    },
-    {
       "id": "cf66ba278ea14a81b178b5d51fa4bdef",
       "channel": "feishu",
       "text": "【Alpha123 移除】BTR\n栏目：今日空投\n项目名称：BTR\n日期：2026-10-09\n时间（北京时间）：17:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0xfed13d0c40790220fbde712987079eda1ed75c51\n链 ID：56\n空投份数（约）：5358份\n每份数量：560\n\n检测时间：2026-10-10 03:43:04（北京时间）\n来源：https://alpha123.uk/zh/",
