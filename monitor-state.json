@@ -1,5 +1,35 @@
 {
-  "outbox": [],
-  "snapshot": {},
-  "last_check": "2026-10-15 18:11:09"
+  "outbox": [
+    {
+      "id": "325013c52820477699896ebd1923ed00",
+      "channel": "feishu",
+      "text": "【Alpha123 新增】DNA\n栏目：空投预告\n项目名称：NeoSoul\n日期：2026-10-16\n阶段：1\n状态：announced\n合约地址：0xA991F61940095AEA0724ef54077223B048c5CF7b\n链 ID：56\n\n检测时间：2026-10-15 23:05:19（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "04b183c4771347eaa91bd1d9b77390a6",
+      "channel": "dingtalk",
+      "text": "【Alpha123 新增】DNA\n栏目：空投预告\n项目名称：NeoSoul\n日期：2026-10-16\n阶段：1\n状态：announced\n合约地址：0xA991F61940095AEA0724ef54077223B048c5CF7b\n链 ID：56\n\n检测时间：2026-10-15 23:05:19（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
+  "snapshot": {
+    "DNA|phase=1": {
+      "section": "空投预告",
+      "record": {
+        "token": "DNA",
+        "name": "NeoSoul",
+        "date": "2026-10-16",
+        "phase": 1,
+        "status": "announced",
+        "created_timestamp": 1792063846,
+        "updated_timestamp": 1792066746,
+        "contract_address": "0xA991F61940095AEA0724ef54077223B048c5CF7b",
+        "chain_id": "56"
+      }
+    }
+  },
+  "last_check": "2026-10-15 23:05:19"
 }
