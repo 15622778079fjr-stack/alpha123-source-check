@@ -1,5 +1,20 @@
 {
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "c3f56927d2484e5ead2fe34cc9462a6c",
+      "channel": "feishu",
+      "text": "【Alpha123 更新】DNA\n栏目：今日空投\n项目名称：NeoSoul\n日期：2026-10-16\n时间（北京时间）：16:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0xA991F61940095AEA0724ef54077223B048c5CF7b\n链 ID：56\n空投份数（约）：2.5万份\n每份数量：400\n\n变更字段：\n- 积分门槛：未公布 → 245\n- 每份数量：未公布 → 400\n- 总数量（代币）：未公布 → 10000000\n- 类型：未公布 → grab\n- 更新时间戳：1792066746 → 1792139245\n\n检测时间：2026-10-16 17:34:55（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "11f53133ce804bce84abf18c2b87ecc5",
+      "channel": "dingtalk",
+      "text": "【Alpha123 更新】DNA\n栏目：今日空投\n项目名称：NeoSoul\n日期：2026-10-16\n时间（北京时间）：16:00\n积分门槛：245\n阶段：1\n状态：announced\n类型：grab\n合约地址：0xA991F61940095AEA0724ef54077223B048c5CF7b\n链 ID：56\n空投份数（约）：2.5万份\n每份数量：400\n\n变更字段：\n- 积分门槛：未公布 → 245\n- 每份数量：未公布 → 400\n- 总数量（代币）：未公布 → 10000000\n- 类型：未公布 → grab\n- 更新时间戳：1792066746 → 1792139245\n\n检测时间：2026-10-16 17:34:55（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
   "snapshot": {
     "DNA|phase=1": {
       "section": "今日空投",
@@ -8,14 +23,18 @@
         "name": "NeoSoul",
         "date": "2026-10-16",
         "time": "16:00",
+        "points": "245",
+        "amount": "400",
+        "total_amount": "10000000",
         "phase": 1,
         "status": "announced",
+        "type": "grab",
         "created_timestamp": 1792063846,
-        "updated_timestamp": 1792066746,
+        "updated_timestamp": 1792139245,
         "contract_address": "0xA991F61940095AEA0724ef54077223B048c5CF7b",
         "chain_id": "56"
       }
     }
   },
-  "last_check": "2026-10-16 12:54:53"
+  "last_check": "2026-10-16 17:34:55"
 }
