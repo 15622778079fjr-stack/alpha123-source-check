@@ -1,5 +1,35 @@
 {
-  "outbox": [],
-  "snapshot": {},
-  "last_check": "2026-10-20 18:11:43"
+  "outbox": [
+    {
+      "id": "de14dfe52d4146e7816b99d239576ae6",
+      "channel": "feishu",
+      "text": "【Alpha123 新增】AXIS\n栏目：空投预告\n项目名称：Axis Robotics\n日期：2026-10-21\n阶段：1\n状态：announced\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n\n检测时间：2026-10-20 23:09:00（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "3d9ceda90ab4433aac9cf983aaad3199",
+      "channel": "dingtalk",
+      "text": "【Alpha123 新增】AXIS\n栏目：空投预告\n项目名称：Axis Robotics\n日期：2026-10-21\n阶段：1\n状态：announced\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n\n检测时间：2026-10-20 23:09:00（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
+  "snapshot": {
+    "AXIS|phase=1": {
+      "section": "空投预告",
+      "record": {
+        "token": "AXIS",
+        "name": "Axis Robotics",
+        "date": "2026-10-21",
+        "phase": 1,
+        "status": "announced",
+        "created_timestamp": 1792499451,
+        "updated_timestamp": 1792504239,
+        "contract_address": "0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea",
+        "chain_id": "8453"
+      }
+    }
+  },
+  "last_check": "2026-10-20 23:09:00"
 }
