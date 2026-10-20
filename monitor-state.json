@@ -1,13 +1,6 @@
 {
   "outbox": [
     {
-      "id": "9aa50d49bb8948f4ad6726b651209813",
-      "channel": "feishu",
-      "text": "【Alpha123 更新】AXIS\n栏目：今日空投\n项目名称：Axis Robotics\n日期：2026-10-21\n阶段：1\n状态：announced\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n\n变更字段：\n- 栏目：空投预告 → 今日空投\n\n检测时间：2026-10-21 03:17:48（北京时间）\n来源：https://alpha123.uk/zh/",
-      "attempts": 0,
-      "due": 0
-    },
-    {
       "id": "772dfa3d942f40c6b897f9c401d8b42e",
       "channel": "dingtalk",
       "text": "【Alpha123 更新】AXIS\n栏目：今日空投\n项目名称：Axis Robotics\n日期：2026-10-21\n阶段：1\n状态：announced\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n\n变更字段：\n- 栏目：空投预告 → 今日空投\n\n检测时间：2026-10-21 03:17:48（北京时间）\n来源：https://alpha123.uk/zh/",
