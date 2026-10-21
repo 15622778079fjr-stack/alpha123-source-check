@@ -1,25 +1,20 @@
 {
-  "outbox": [],
-  "snapshot": {
-    "AXIS|phase=1": {
-      "section": "今日空投",
-      "record": {
-        "token": "AXIS",
-        "name": "Axis Robotics",
-        "date": "2026-10-21",
-        "time": "19:00",
-        "points": "235",
-        "amount": "250",
-        "total_amount": "10000000",
-        "phase": 1,
-        "status": "announced",
-        "type": "grab",
-        "created_timestamp": 1792499451,
-        "updated_timestamp": 1792583010,
-        "contract_address": "0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea",
-        "chain_id": "8453"
-      }
+  "outbox": [
+    {
+      "id": "4f1bd4bfef9d43ff8926b9e5c06ab003",
+      "channel": "feishu",
+      "text": "【Alpha123 移除】AXIS\n栏目：今日空投\n项目名称：Axis Robotics\n日期：2026-10-21\n时间（北京时间）：19:00\n积分门槛：235\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n空投份数（约）：4.0万份\n每份数量：250\n\n检测时间：2026-10-22 03:36:38（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "e3b88bf57a59472894c90b2959b2d169",
+      "channel": "dingtalk",
+      "text": "【Alpha123 移除】AXIS\n栏目：今日空投\n项目名称：Axis Robotics\n日期：2026-10-21\n时间（北京时间）：19:00\n积分门槛：235\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea\n链 ID：8453\n空投份数（约）：4.0万份\n每份数量：250\n\n检测时间：2026-10-22 03:36:38（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
     }
-  },
-  "last_check": "2026-10-21 23:35:31"
+  ],
+  "snapshot": {},
+  "last_check": "2026-10-22 03:36:38"
 }
