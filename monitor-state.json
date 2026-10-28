@@ -1,13 +1,6 @@
 {
   "outbox": [
     {
-      "id": "0341f7dcb9844213b0cff9586f5b9a4f",
-      "channel": "feishu",
-      "text": "【Alpha123 更新】PREDICT\n栏目：今日空投\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n\n变更字段：\n- 栏目：空投预告 → 今日空投\n\n检测时间：2026-10-29 03:35:23（北京时间）\n来源：https://alpha123.uk/zh/",
-      "attempts": 0,
-      "due": 0
-    },
-    {
       "id": "c21de308267b4871839c202d35939a35",
       "channel": "dingtalk",
       "text": "【Alpha123 更新】PREDICT\n栏目：今日空投\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n\n变更字段：\n- 栏目：空投预告 → 今日空投\n\n检测时间：2026-10-29 03:35:23（北京时间）\n来源：https://alpha123.uk/zh/",
