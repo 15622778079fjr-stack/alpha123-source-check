@@ -1,13 +1,6 @@
 {
   "outbox": [
     {
-      "id": "a2fc54e6006d4404b205b5329eaac97d",
-      "channel": "dingtalk",
-      "text": "【Alpha123 新增】UP\n栏目：今日空投\n项目名称：UP\n日期：2026-10-28\n时间（北京时间）：17:00\n积分门槛：244\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x000008d2175f9aeaddb2430c26f8a6f73c5a0000\n链 ID：56\n空投份数（约）：1.1万份\n每份数量：197\n\n检测时间：2026-10-28 22:09:35（北京时间）\n来源：https://alpha123.uk/zh/",
-      "attempts": 0,
-      "due": 0
-    },
-    {
       "id": "6e355aa7e3504d7a96663b7eff70ab9f",
       "channel": "feishu",
       "text": "【Alpha123 新增】PREDICT\n栏目：空投预告\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n\n检测时间：2026-10-28 22:09:35（北京时间）\n来源：https://alpha123.uk/zh/",
