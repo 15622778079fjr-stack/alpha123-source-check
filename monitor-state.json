@@ -1,13 +1,5 @@
 {
-  "outbox": [
-    {
-      "id": "d1cec5ad30a046458a4dfee7b4b3d9c2",
-      "channel": "dingtalk",
-      "text": "【Alpha123 新增】PREDICT\n栏目：空投预告\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n\n检测时间：2026-10-28 22:09:35（北京时间）\n来源：https://alpha123.uk/zh/",
-      "attempts": 0,
-      "due": 0
-    }
-  ],
+  "outbox": [],
   "snapshot": {
     "UP|phase=1": {
       "section": "今日空投",
