@@ -1,5 +1,20 @@
 {
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "260b46f0ebe64899accc35b34b1b68fb",
+      "channel": "feishu",
+      "text": "【Alpha123 更新】PREDICT\n栏目：今日空投\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n积分门槛：60\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n每份数量：531.97\n\n变更字段：\n- 积分门槛：未公布 → 60\n- 每份数量：未公布 → 531.97\n- 更新时间戳：1793186349 → 1793251153\n- actual_bnb：0 → 225575.90\n\n检测时间：2026-10-29 17:03:06（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "f9d42d903e744b079e41c358bed17383",
+      "channel": "dingtalk",
+      "text": "【Alpha123 更新】PREDICT\n栏目：今日空投\n项目名称：Predict.fun\n日期：2026-10-29\n时间（北京时间）：16:00\n积分门槛：60\n阶段：1\n状态：announced\n类型：tge\n合约地址：0x8888cef3923385c7f90ade66d09f41fb16668888\n链 ID：56\n每份数量：531.97\n\n变更字段：\n- 积分门槛：未公布 → 60\n- 每份数量：未公布 → 531.97\n- 更新时间戳：1793186349 → 1793251153\n- actual_bnb：0 → 225575.90\n\n检测时间：2026-10-29 17:03:06（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
   "snapshot": {
     "PREDICT|phase=1": {
       "section": "今日空投",
@@ -8,18 +23,20 @@
         "name": "Predict.fun",
         "date": "2026-10-29",
         "time": "16:00",
+        "points": 60,
+        "amount": 531.97,
         "phase": 1,
         "status": "announced",
         "type": "tge",
         "created_timestamp": 1793172657,
-        "updated_timestamp": 1793186349,
+        "updated_timestamp": 1793251153,
         "contract_address": "0x8888cef3923385c7f90ade66d09f41fb16668888",
         "chain_id": "56",
         "pretge": true,
         "target_bnb": "7794.12753",
-        "actual_bnb": "0"
+        "actual_bnb": "225575.90"
       }
     }
   },
-  "last_check": "2026-10-29 10:49:03"
+  "last_check": "2026-10-29 17:03:06"
 }
