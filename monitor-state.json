@@ -1,5 +1,40 @@
 {
-  "outbox": [],
-  "snapshot": {},
-  "last_check": "2026-11-13 15:22:44"
+  "outbox": [
+    {
+      "id": "68d53af111a5413188df68a986176d17",
+      "channel": "feishu",
+      "text": "【Alpha123 新增】RAVE\n栏目：今日空投\n项目名称：RAVE\n日期：2026-11-13\n时间（北京时间）：19:00\n积分门槛：256\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x97693439ea2f0ecdeb9135881e49f354656a911c\n链 ID：56\n空投份数（约）：1.1万份\n每份数量：270\n\n检测时间：2026-11-13 23:35:13（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "2017558754be44a89231dcaa2b67d600",
+      "channel": "dingtalk",
+      "text": "【Alpha123 新增】RAVE\n栏目：今日空投\n项目名称：RAVE\n日期：2026-11-13\n时间（北京时间）：19:00\n积分门槛：256\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x97693439ea2f0ecdeb9135881e49f354656a911c\n链 ID：56\n空投份数（约）：1.1万份\n每份数量：270\n\n检测时间：2026-11-13 23:35:13（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    }
+  ],
+  "snapshot": {
+    "RAVE|phase=1": {
+      "section": "今日空投",
+      "record": {
+        "token": "RAVE",
+        "name": "RAVE",
+        "date": "2026-11-13",
+        "time": "19:00",
+        "points": "256",
+        "amount": "270",
+        "total_amount": "2916540",
+        "phase": 1,
+        "status": "announced",
+        "type": "grab",
+        "created_timestamp": 1794566882,
+        "updated_timestamp": 1794567920,
+        "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+        "chain_id": "56"
+      }
+    }
+  },
+  "last_check": "2026-11-13 23:35:13"
 }
