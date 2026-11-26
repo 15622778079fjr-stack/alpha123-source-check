@@ -1,23 +1,20 @@
 {
-  "outbox": [],
-  "snapshot": {
-    "MAGMA|phase=1": {
-      "section": "今日空投",
-      "record": {
-        "token": "MAGMA",
-        "name": "MAGMA",
-        "date": "2026-11-26",
-        "time": "16:00",
-        "points": "250",
-        "amount": "119",
-        "total_amount": "1399920",
-        "phase": 1,
-        "status": "announced",
-        "type": "grab",
-        "contract_address": "0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA",
-        "chain_id": "784"
-      }
+  "outbox": [
+    {
+      "id": "e1a18411e61d4b3a93f4043a17b19bbe",
+      "channel": "feishu",
+      "text": "【Alpha123 移除】MAGMA\n栏目：今日空投\n项目名称：MAGMA\n日期：2026-11-26\n时间（北京时间）：16:00\n积分门槛：250\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA\n链 ID：784\n空投份数（约）：1.2万份\n每份数量：119\n\n检测时间：2026-11-27 02:40:39（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
+    },
+    {
+      "id": "e6059dd9f8c24d2894a2d5907960edb6",
+      "channel": "dingtalk",
+      "text": "【Alpha123 移除】MAGMA\n栏目：今日空投\n项目名称：MAGMA\n日期：2026-11-26\n时间（北京时间）：16:00\n积分门槛：250\n阶段：1\n状态：announced\n类型：grab\n合约地址：0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA\n链 ID：784\n空投份数（约）：1.2万份\n每份数量：119\n\n检测时间：2026-11-27 02:40:39（北京时间）\n来源：https://alpha123.uk/zh/",
+      "attempts": 0,
+      "due": 0
     }
-  },
-  "last_check": "2026-11-26 16:44:19"
+  ],
+  "snapshot": {},
+  "last_check": "2026-11-27 02:40:39"
 }
